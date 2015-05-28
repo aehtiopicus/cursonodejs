@@ -1,4 +1,3 @@
-
 var data = {
         data1 : "a",
         data2 : "b"
@@ -10,7 +9,7 @@ var data = {
 */
 function cow() {
     "use strict";
-    return "";
+    return "-";
 }
 /**
 Como rompe...
@@ -22,4 +21,3 @@ function joinData() {
         cow();
     }
 }
-
